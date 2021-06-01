@@ -16,4 +16,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/phmmiranda/)](https://www.linkedin.com/in/phmmiranda/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5561992398529&text=Olá!)](https://api.whatsapp.com/send?phone=5561985971259&text=Olá!)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/phmiranda)](https://t.me/phmiranda)
+[![Twitch Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://www.twitch.tv/pehhagah)](https://t.me/phmiranda)
+[![Youtube Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://www.youtube.com/channel/UCVx3WH6PEe2QtiXuwQoeGpA)](https://t.me/phmiranda)
 
