@@ -1,7 +1,7 @@
 # PEDRO HENRIQUE - ANALISTA E DESENVOLVEDOR DE SOFTWARE
 
 ## RESUMO
-> N/A
+> Atuar no desenvolvimento de software sob demanda que atenda as necessidades dos envolvidos, presando pela qualidade e utilizando as melhores práticas do mercado no que diz respeito a tecnologia da informação, aplicando modelos sólidos e inovadores de arquitetura de sistemas e contribuindo com o time agregando valor aos produtos desenvolvidos.
 
 ## MY WORKSPACE
 
