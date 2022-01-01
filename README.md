@@ -25,12 +25,12 @@
 ## Ambiente e Ferramentas de Desenvolvimento 
 
 <div style="display: inline_block">
-    <img align="center" alt="Intel-10700K" height="35" width="70" src="https://img.shields.io/badge/Intel-Core_i7_10700K_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white">
-    <img align="center" alt="NVidia-1080ti" height="35" width="70" src="https://img.shields.io/badge/NVIDIA-GTX1080ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
-    <img align="center" alt="Microsoft-Office" height="35" width="70" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
-    <img align="center" alt="WindowsOperatinalSystem" height="35" width="70" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-    <img align="center" alt="Linux-Mint" height="35" width="70" src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white"> 
-    <img align="center" alt="Ubuntu" height="35" width="70" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+    <img align="center" alt="Intel-10700K" height="35" width="80" src="https://img.shields.io/badge/Intel-Core_i7_10700K_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white">
+    <img align="center" alt="NVidia-1080ti" height="35" width="80" src="https://img.shields.io/badge/NVIDIA-GTX1080ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
+    <img align="center" alt="Microsoft-Office" height="35" width="80" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
+    <img align="center" alt="WindowsOperatinalSystem" height="35" width="80" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+    <img align="center" alt="Linux-Mint" height="35" width="80" src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white"> 
+    <img align="center" alt="Ubuntu" height="35" width="80" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
     
 </div>
 
