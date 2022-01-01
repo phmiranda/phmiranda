@@ -5,7 +5,7 @@
 </div> 
 -->
 
-## Estatísticas do Perfil e GitHub (Stats)
+## Estatísticas
 
 <div align="left">
     <a href="https://github.com/phmiranda">
@@ -13,7 +13,15 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phmiranda&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
 
-## Habilidade e Tecnologias Utilizadas
+## Ambiente do Desktop
+
+<div align="left">
+    <img align="center" alt="Intel-10700K"  src="https://img.shields.io/badge/Intel-Core_i7_10700K_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white">
+    <img align="center" alt="NVidia-1080ti"  src="https://img.shields.io/badge/NVIDIA-GTX1080ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
+    <img align="center" alt="Microsoft-Office"  src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">    
+</div>
+
+## Habilidade e Tecnologias
 
 <div align="left">
     <img align="center" alt="Pedro-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -35,10 +43,7 @@
 ## Ambiente e Ferramentas de Desenvolvimento 
 
 <div align="left">
-    <img align="center" alt="Intel-10700K"  src="https://img.shields.io/badge/Intel-Core_i7_10700K_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white">
-    <img align="center" alt="NVidia-1080ti"  src="https://img.shields.io/badge/NVIDIA-GTX1080ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
-    <img align="center" alt="Microsoft-Office"  src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
-    <img align="center" alt="WindowsOperatinalSystem"  src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+    <img align="center" alt="Windows"  src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
     <img align="center" alt="Linux-Mint"  src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white"> 
     <img align="center" alt="Ubuntu"  src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
     
