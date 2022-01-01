@@ -17,7 +17,7 @@
     <img align="center" alt="Pedro-SpringBoot" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
     <img align="center" alt="Pedro-Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <img align="center" alt="Pedro-Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
-    <img align="right" alt="Pedro-pic" height="200" style="border-radius:50px;" src="https://github.com/phmiranda/phmiranda/blob/develop/assets/me.jpg">
+    <!-- <img align="right" alt="Pedro-pic" height="200" style="border-radius:50px;" src="https://github.com/phmiranda/phmiranda/blob/develop/assets/me.jpg"> -->
 </div>
 
 ## Ambiente e Ferramentas de Desenvolvimento 
