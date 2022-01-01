@@ -15,7 +15,7 @@
     <img align="center" alt="Pedro-Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
     <img align="center" alt="Pedro-ReactJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="right" alt="Pedro-pic" height="150" style="border-radius:50px;" src="https://github.com/phmiranda/phmiranda/blob/develop/assets/me.svg">
+    <img align="right" alt="Pedro-pic" height="150" style="border-radius:50px;" src="https://github.com/phmiranda/phmiranda/blob/develop/assets/me.jpg">
 </div>
 
 ## Minhas Redes Sociais
