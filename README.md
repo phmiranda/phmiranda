@@ -1,7 +1,9 @@
+<!-- 
 <div align="center">
-     <img align="center" alt="Pedro-pic" height="200" style="border-radius:50px;" src="https://github.com/phmiranda/phmiranda/blob/develop/assets/me.jpg">
-     <p>Pedro | Arquiteto e Desenvolvedor de Software</p>
-</div>
+    <img align="center" alt="Pedro-pic" height="200" style="border-radius:50px;" src="https://github.com/phmiranda/phmiranda/blob/develop/assets/me.jpg">
+    <p>Pedro | Arquiteto e Desenvolvedor de Software</p>
+</div> 
+-->
 
 ## Estatísticas do Perfil e GitHub (Stats)
 
