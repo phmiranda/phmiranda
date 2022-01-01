@@ -5,7 +5,7 @@
 
 ## Estatísticas do Perfil e GitHub (Stats)
 
-<div align="center">
+<div align="left">
     <a href="https://github.com/phmiranda">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phmiranda&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phmiranda&layout=compact&langs_count=7&theme=blue-green"/>
@@ -13,7 +13,7 @@
 
 ## Habilidade e Tecnologias Utilizadas
 
-<div align="center">
+<div align="left">
     <img align="center" alt="Pedro-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img align="center" alt="Pedro-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img align="center" alt="Pedro-Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -32,7 +32,7 @@
 
 ## Ambiente e Ferramentas de Desenvolvimento 
 
-<div align="center">
+<div align="left">
     <img align="center" alt="Intel-10700K"  src="https://img.shields.io/badge/Intel-Core_i7_10700K_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white">
     <img align="center" alt="NVidia-1080ti"  src="https://img.shields.io/badge/NVIDIA-GTX1080ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
     <img align="center" alt="Microsoft-Office"  src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
@@ -44,7 +44,7 @@
 
 ## Minhas Redes Sociais
 
-<div align="center">
+<div align="left">
     <a href="mailto:pehhagah.1607@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://wa.me/+5561985971259"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/phmmiranda" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -54,7 +54,7 @@
 
 ## Games e Músicas
 
-<div align="center">    
+<div align="left">    
     <a href="https://discord.gg/8AmH45VW" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
     <a href="https://www.twitch.tv/pehhagah" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
     <a href="https://www.youtube.com/phmiranda" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
