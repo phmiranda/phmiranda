@@ -1,4 +1,8 @@
-## <p align="center">Pedro | Arquiteto e Desenvolvedor de Software</p>
+<div align="center">
+     <img align="right" alt="Pedro-pic" height="200" style="border-radius:50px;" src="https://github.com/phmiranda/phmiranda/blob/develop/assets/me.jpg">
+</div>
+
+## Estatísticas do Perfil e GitHub (Stats)
 
 <div align="center">
     <a href="https://github.com/phmiranda">
@@ -23,7 +27,6 @@
     <img align="center" alt="Pedro-MySQLDatabase" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
     <img align="center" alt="Pedro-Postgres" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
     <img align="center" alt="Pedro-MongoDb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-    <!-- <img align="right" alt="Pedro-pic" height="200" style="border-radius:50px;" src="https://github.com/phmiranda/phmiranda/blob/develop/assets/me.jpg"> -->
 </div>
 
 ## Ambiente e Ferramentas de Desenvolvimento 
