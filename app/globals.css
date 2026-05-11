@@ -3,6 +3,7 @@
 :root {
   --background: #ffffff;
   --foreground: #171717;
+  --parallax-y: 0;
 }
 
 @theme inline {
@@ -23,4 +24,65 @@ body {
   background: var(--background);
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+.parallax-backdrop {
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  overflow: hidden;
+  pointer-events: none;
+  background:
+    linear-gradient(135deg, rgba(20, 184, 166, 0.12), transparent 34%),
+    linear-gradient(225deg, rgba(245, 158, 11, 0.12), transparent 30%),
+    linear-gradient(180deg, #ffffff 0%, #f8fafc 42%, #f4f4f5 100%);
+}
+
+.dark .parallax-backdrop {
+  background:
+    linear-gradient(135deg, rgba(20, 184, 166, 0.14), transparent 34%),
+    linear-gradient(225deg, rgba(244, 63, 94, 0.12), transparent 30%),
+    linear-gradient(180deg, #09090b 0%, #111827 48%, #0f172a 100%);
+}
+
+.parallax-layer {
+  position: absolute;
+  inset: -20%;
+  opacity: 0.7;
+  transform: translate3d(0, calc(var(--parallax-y) * -0.025px), 0);
+  will-change: transform;
+}
+
+.parallax-layer-slow {
+  background:
+    linear-gradient(115deg, transparent 0 18%, rgba(15, 23, 42, 0.08) 18% 18.4%, transparent 18.4% 100%),
+    linear-gradient(75deg, transparent 0 62%, rgba(20, 184, 166, 0.14) 62% 62.6%, transparent 62.6% 100%);
+}
+
+.parallax-layer-medium {
+  opacity: 0.45;
+  transform: translate3d(0, calc(var(--parallax-y) * -0.045px), 0);
+  background:
+    linear-gradient(145deg, transparent 0 36%, rgba(245, 158, 11, 0.14) 36% 36.5%, transparent 36.5% 100%),
+    linear-gradient(25deg, transparent 0 54%, rgba(244, 63, 94, 0.1) 54% 54.4%, transparent 54.4% 100%);
+}
+
+.parallax-grid {
+  position: absolute;
+  inset: 0;
+  opacity: 0.22;
+  transform: translate3d(0, calc(var(--parallax-y) * -0.012px), 0);
+  will-change: transform;
+  background-image:
+    linear-gradient(rgba(113, 113, 122, 0.2) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(113, 113, 122, 0.2) 1px, transparent 1px);
+  background-size: 72px 72px;
 }
