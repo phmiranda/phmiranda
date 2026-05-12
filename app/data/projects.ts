@@ -2,7 +2,7 @@ import type { Project } from "@/app/types/project";
 
 export const projects: Project[] = [
   {
-    name: "Projeto pessoal exemplo",
+    name: "Projeto pessoal exemplo 01",
     description:
       "Descreva o problema resolvido, sua participacao e os principais resultados ou aprendizados.",
     technologies: ["React", "TypeScript", "Tailwind CSS"],
@@ -10,7 +10,7 @@ export const projects: Project[] = [
     demoUrl: "",
   },
   {
-    name: "Projeto pessoal exemplo 1",
+    name: "Projeto pessoal exemplo 02",
     description:
         "Descreva o problema resolvido, sua participacao e os principais resultados ou aprendizados.",
     technologies: ["React", "TypeScript", "Tailwind CSS"],
@@ -18,7 +18,7 @@ export const projects: Project[] = [
     demoUrl: "",
   },
   {
-    name: "Projeto pessoal exemplo 2",
+    name: "Projeto pessoal exemplo 03",
     description:
         "Descreva o problema resolvido, sua participacao e os principais resultados ou aprendizados.",
     technologies: ["React", "TypeScript", "Tailwind CSS"],
@@ -26,7 +26,7 @@ export const projects: Project[] = [
     demoUrl: "",
   },
   {
-    name: "Projeto pessoal exemplo 4",
+    name: "Projeto pessoal exemplo 04",
     description:
         "Descreva o problema resolvido, sua participacao e os principais resultados ou aprendizados.",
     technologies: ["React", "TypeScript", "Tailwind CSS"],
