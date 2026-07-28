@@ -6,7 +6,7 @@ export const projects: Project[] = [
     description:
       "Descreva o problema resolvido, sua participacao e os principais resultados ou aprendizados.",
     technologies: ["React", "TypeScript", "Tailwind CSS"],
-    repositoryUrl: "https://github.com/seu-usuario/projeto",
+    repositoryUrl: "https://github.com/accellero",
     demoUrl: "https://cau.accellero.com.br",
   },
   {
@@ -14,7 +14,7 @@ export const projects: Project[] = [
     description:
         "Descreva o problema resolvido, sua participacao e os principais resultados ou aprendizados.",
     technologies: ["React", "TypeScript", "Tailwind CSS"],
-    repositoryUrl: "https://github.com/seu-usuario/projeto",
+    repositoryUrl: "https://github.com/accellero",
     demoUrl: "https://servicetec.accellero.com.br",
   },
   {
@@ -22,7 +22,7 @@ export const projects: Project[] = [
     description:
         "Descreva o problema resolvido, sua participacao e os principais resultados ou aprendizados.",
     technologies: ["React", "TypeScript", "Tailwind CSS"],
-    repositoryUrl: "https://github.com/seu-usuario/projeto",
+    repositoryUrl: "https://github.com/socialestrategico",
     demoUrl: "https://loja.socialestrategico.com.br",
   }
 ];
