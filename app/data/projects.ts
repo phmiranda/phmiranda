@@ -2,35 +2,27 @@ import type { Project } from "@/app/types/project";
 
 export const projects: Project[] = [
   {
-    name: "Projeto pessoal exemplo 01",
+    name: "Accellero - CAU",
     description:
       "Descreva o problema resolvido, sua participacao e os principais resultados ou aprendizados.",
     technologies: ["React", "TypeScript", "Tailwind CSS"],
-    repositoryUrl: "https://github.com/seu-usuario/projeto",
-    demoUrl: "",
+    repositoryUrl: "https://github.com/accellero",
+    demoUrl: "https://cau.accellero.com.br",
   },
   {
-    name: "Projeto pessoal exemplo 02",
+    name: "Accellero - ServiceTec",
     description:
         "Descreva o problema resolvido, sua participacao e os principais resultados ou aprendizados.",
     technologies: ["React", "TypeScript", "Tailwind CSS"],
-    repositoryUrl: "https://github.com/seu-usuario/projeto",
-    demoUrl: "",
+    repositoryUrl: "https://github.com/accellero",
+    demoUrl: "https://servicetec.accellero.com.br",
   },
   {
-    name: "Projeto pessoal exemplo 03",
+    name: "Social Estratégico - Cotas Sociais",
     description:
         "Descreva o problema resolvido, sua participacao e os principais resultados ou aprendizados.",
     technologies: ["React", "TypeScript", "Tailwind CSS"],
-    repositoryUrl: "https://github.com/seu-usuario/projeto",
-    demoUrl: "",
-  },
-  {
-    name: "Projeto pessoal exemplo 04",
-    description:
-        "Descreva o problema resolvido, sua participacao e os principais resultados ou aprendizados.",
-    technologies: ["React", "TypeScript", "Tailwind CSS"],
-    repositoryUrl: "https://github.com/seu-usuario/projeto",
-    demoUrl: "",
-  },
+    repositoryUrl: "https://github.com/socialestrategico",
+    demoUrl: "https://loja.socialestrategico.com.br",
+  }
 ];
