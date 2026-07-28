@@ -24,13 +24,5 @@ export const projects: Project[] = [
     technologies: ["React", "TypeScript", "Tailwind CSS"],
     repositoryUrl: "https://github.com/seu-usuario/projeto",
     demoUrl: "",
-  },
-  {
-    name: "Projeto pessoal exemplo 04",
-    description:
-        "Descreva o problema resolvido, sua participacao e os principais resultados ou aprendizados.",
-    technologies: ["React", "TypeScript", "Tailwind CSS"],
-    repositoryUrl: "https://github.com/seu-usuario/projeto",
-    demoUrl: "",
-  },
+  }
 ];

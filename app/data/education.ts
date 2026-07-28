@@ -2,23 +2,18 @@ import type { Education } from "@/app/types/education";
 
 export const education: Education[] = [
   {
-    institution: "Instituicao exemplo 01 ",
-    course: "Curso exemplo",
-    period: "2020 - 2024",
+    institution: "Faculdade Unyleya",
+    course: "Engenharia Ágil de Software",
+    period: "2024 - 2026",
   },
   {
-    institution: "Instituicao exemplo 02",
-    course: "Curso exemplo",
-    period: "2020 - 2024",
+    institution: "Instituto de Educação Superior de Brasília",
+    course: "Análise e Desenvolvimento de Sistemas",
+    period: "2018 - 2020",
   },
   {
-    institution: "Instituicao exemplo 03",
-    course: "Curso exemplo",
-    period: "2020 - 2024",
-  },
-  {
-    institution: "Instituicao exemplo 04",
-    course: "Curso exemplo",
-    period: "2020 - 2024",
-  },
+    institution: "Escola Técnica de Ceilândia",
+    course: "Técnico em Informática",
+    period: "2015 - 2017",
+  }
 ];
